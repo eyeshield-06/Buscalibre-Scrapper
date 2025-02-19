@@ -17,3 +17,5 @@ https://www.buscalibre.cl/libro-el-elefante-desaparece/9788411071147/p/54051571,
 ```sh
 sh BLscrapperList.sh
 ```
+
+![fdjslfd](https://github.com/user-attachments/assets/279d29f8-68c7-41ec-9e0e-65385a3e33ff)
